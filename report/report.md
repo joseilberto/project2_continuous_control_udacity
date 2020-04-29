@@ -123,8 +123,7 @@ Using this set of parameters, our agent was able to follow the object in the env
 
 And below we have the results for the 20 arms environments.
 
-<!-- ![image](..\\images\\scores_multiple_arms.png) -->
-![image](..\\images\\scores_single_arm.png)
+![image](..\\images\\scores_multiple_arms.png)
 
 ## Conclusions and future work
 
